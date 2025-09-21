@@ -127,6 +127,7 @@ body {
   text-transform: uppercase;
   font-size: 40px;
   font-weight: 700;
+  padding-left: 40px;
 }
 
 .lots {
@@ -172,10 +173,6 @@ body {
   background-position: center;
   position: relative;
   z-index: -1;
-}
-
-.lots__heading {
-  padding-left: 40px;
 }
 
 .lots__card-list {
